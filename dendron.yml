@@ -85,6 +85,7 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
+    siteUrl: 'https://benhsm.github.io/dendron-publish-test'
     seo:
         title: Dendron
         description: Personal Knowledge Space
